@@ -16,7 +16,7 @@ With over 7 years of experience as a full-stack developer, I specialize in build
 - Performance tuning and search engine optimization.
 - Server administration and CDN configuration for enhanced scalability and reliability.
 
-### App & Plugin Development
+#### App & Plugin Development
 Custom Apps & Ingrations for platforms such as Shopify, Shoplazza, Cal.com, Cloudbeds.
 
 ### Technical Skills
